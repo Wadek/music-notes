@@ -1,3 +1,10 @@
+Get started easy:
+
+npm install
+npm start
+
+(run both music-notes backend and music-notes at the same time)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
